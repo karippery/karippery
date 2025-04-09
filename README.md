@@ -5,7 +5,7 @@
 ### 🛠️ Technologies & Tools
 
 - **Languages**: Python, JavaScript, PHP, SQL
-- **Frameworks**: Django, Angular, Node.js
+- **Frameworks**: Django, React, Node.js
 - **DevOps**: Docker, CI/CD (Jenkins, GitHub Actions), Kubernetes
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Automation**: Robot Framework, Excel Automation with Python
