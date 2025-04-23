@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @karippery
 
-
+## My Portfolio
+Check out my portfolio [here]([https://your-live-portfolio-link.com](https://karippery.github.io/portfolio/#/home))!
 
 ### 🛠️ Technologies & Tools
 
