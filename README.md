@@ -6,7 +6,7 @@ Check out my portfolio [here](https://karippery.github.io/portfolio/#/home)!
 ### 🛠️ Technologies & Tools
 
 - **Languages**: Python, JavaScript, PHP, SQL
-- **Frameworks**: Django, React, Node.js
+- **Frameworks**: Django, FastApi, React, Node.js
 - **DevOps**: Docker, CI/CD (Jenkins, GitHub Actions), Kubernetes
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Automation**: Robot Framework, Excel Automation with Python
