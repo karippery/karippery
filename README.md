@@ -26,7 +26,7 @@ Check out my portfolio [here](https://karippery.github.io/portfolio/#/home)!
 
 - Advanced Django REST best practices.
 - CI/CD pipeline optimization with Jenkins.
-- Exploring data analytics in Python and Java/Scala.
+- Exploring data analytics in Python and fastapi/RAG.
 
 ---
 
